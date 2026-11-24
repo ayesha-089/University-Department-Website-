@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<title id="title">University campus illustration</title><desc id="desc">Illustration of a modern university building with trees and a blue sky.</desc>
+<rect width="1200" height="650" fill="#eaf2fb"/><circle cx="980" cy="110" r="58" fill="#f5c76b"/>
+<path d="M0 500 Q250 430 480 500 T950 490 T1200 470 V650 H0Z" fill="#b8d8c1"/>
+<rect x="250" y="210" width="700" height="310" rx="8" fill="#fff" stroke="#1c4776" stroke-width="8"/>
+<path d="M210 220 L600 70 L990 220Z" fill="#1c4776"/><rect x="530" y="100" width="140" height="80" fill="#f5c76b"/>
+<g fill="#b8d7f3" stroke="#1c4776" stroke-width="5"><rect x="300" y="270" width="100" height="100"/><rect x="450" y="270" width="100" height="100"/><rect x="650" y="270" width="100" height="100"/><rect x="800" y="270" width="100" height="100"/></g>
+<rect x="535" y="390" width="130" height="130" fill="#1c4776"/><g fill="#347b55"><circle cx="150" cy="430" r="75"/><rect x="140" y="430" width="20" height="100" fill="#76563b"/><circle cx="1050" cy="420" r="82"/><rect x="1040" y="420" width="20" height="110" fill="#76563b"/></g>
+</svg>
